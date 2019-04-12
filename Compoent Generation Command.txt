@@ -1,0 +1,1 @@
+ng g component Address --entryComponent=true --export=true --selector=rootUI --style=css --skipTests=true
